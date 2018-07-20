@@ -1,0 +1,173 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">市示范工地</h1>
+												<tr>
+												    <th>序号</th>
+													<th>工程名称</th>
+													<th >承建单位</th>
+													<th>项目经理姓名</th>
+													<th>建造师证证号</th>
+													<th>施工单位联系人/电话</th>
+													<th>监理单位</th>
+													<th>总监理姓名</th>
+													<th>执业资格证号</th>
+													<th>监理单位联系人/电话</th>
+													<th>参建单位（专业分包单位）</th>
+													<th>参建单位联系人/电话</th>
+													<th>结构类别</th>
+													<th>地上</th>
+													<th>地下</th>
+													<th>建筑面积㎡/规模</th>
+													<th>计划竣工时间</th>
+													<th>申报时的工程形象进度（主体）</th>
+													<th>工程地点（镇街村）</th>
+													<th>申报日期</th>
+													<th>是否通过省安全标化系统审核）</th>
+													<th>备注</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													<td align="center">1</td>
+													<td> 松山湖南区员工公寓项目—公租房地下室、1-7号宿舍楼（公租房）、8号商业配套楼、9号泳池配套用房</td>
+													<td class="center"> 中建三局第一建设工程有限责任公司</td>
+													<td align="center">陈建新</td>
+													<td align="center">鄂142131413432</td>
+	
+													<td align="center">代红威/13827216064</td>
+												    <td align="center">广东华工工程建设监理有限公司</td>
+												    <td align="center">方心洲</td>
+												    <td align="center">鄂142131413432</td>
+												    <td align="center">方心洲/15920047535</td>
+												    <td align="center">中建四局安装工程有限公司、广东省基础工程集团有限公司</td>
+												    <td align="center">高涛/18620135479</td>
+												    <td align="center">框剪</td>
+												    <td align="center">27</td>
+												    <td align="center">2</td>
+												    <td align="center">29.25m²/5.12亿元万元</td>
+												    <td align="center">2018-08-30</td>
+												    <td>主体15层</td>
+												    <td>东莞市松山湖环湖路南侧、湖景路北侧</td>
+												    <td align="center">2017-09-20</td>
+												    <td></td>
+												    <td></td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">2</td>
+													<td>华为研发实验室（一期）项目</td>
+													<td class="center"> 中国建筑一局（集团）有限公司</td>
+													<td align="center">赵国恒</td>
+													<td align="center">京11114428548</td>
+	
+													<td align="center">林长华/15948226050</td>
+												    <td align="center">深圳市中行建设工程顾问有限公司</td>
+												    <td align="center">汤小蔚</td>
+												    <td align="center">00201866</td>
+												    <td align="center">汤小蔚/18028787582</td>
+												    <td align="center"></td>
+												    <td align="center">/</td>
+												    <td align="center">钢结构</td>
+												    <td align="center">4层</td>
+												    <td align="center">无</td>
+												    <td align="center">21万m²/19000万元</td>
+												    <td align="center">2018-09-30</td>
+												    <td>主体施工</td>
+												    <td>广东省东莞市松山湖高新技术开发区南侧</td>
+												    <td align="center">2017-10-20</td>
+												    <td></td>
+												    <td>正在办理施工许可证，已完成绿色通道办理手续</td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">3</td>
+													<td>广汇商贸中心二期1~2号商业、办公楼、3~4号办公楼、5号商业楼、6号地下室</td>
+													<td class="center"> 广东五华二建工程有限公司</td>
+													<td align="center">杨清荣</td>
+													<td align="center">00104579</td>
+	
+													<td align="center">吴清霞/13711979954</td>
+												    <td align="center">深圳市鲁班建设监理有限公司</td>
+												    <td align="center">冷应坤</td>
+												    <td align="center">00383998</td>
+												    <td align="center">冷应坤/13908450457</td>
+												    <td align="center">广东仁华建设工程有限公司</td>
+												    <td align="center">吴清霞/13711979954</td>
+												    <td align="center">框剪</td>
+												    <td align="center">地上3~12层</td>
+												    <td align="center">1层</td>
+												    <td align="center">64030.75m²/ 10400万元</td>
+												    <td align="center">2019-07-25</td>
+												    <td>六层柱、七层梁板</td>
+												    <td>东莞市东城桑园社区规划一路旁 </td>
+												    <td align="center">2017-11-13</td>
+												    <td></td>
+												    <td></td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">4</td>
+													<td>环莞快速路（二期）交通设施工程</td>
+													<td class="center"> 湖北省路桥集团有限公司</td>
+													<td align="center">杨涛</td>
+													<td align="center">鄂142060804895</td>
+	
+													<td align="center">林万里/13332600266</td>
+												    <td align="center">广州广骏工程监理有限公司</td>
+												    <td align="center">王森</td>
+												    <td align="center">44012488</td>
+												    <td align="center">邓亮明/13712178389</td>
+												    <td align="center"></td>
+												    <td align="center">/</td>
+												    <td align="center"></td>
+												    <td align="center"></td>
+												    <td align="center"></td>
+												    <td align="center">m²/2865.52万元</td>
+												    <td align="center">2018-01-31</td>
+												    <td>已完成总工程量68%</td>
+												    <td>东莞市厚街虎门长安</td>
+												    <td align="center">2017-11-18</td>
+												    <td></td>
+												    <td></td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">5</td>
+													<td>东莞市寮步镇2015-2017年截污次支管网（一期）工程-黄沙河片区</td>
+													<td class="center"> 江西省路桥隧道工程有限公司</td>
+													<td align="center">欧阳德文</td>
+													<td align="center">赣136141508576</td>
+	
+													<td align="center">吴建湘/18665189397</td>
+												    <td align="center">广东华工工程建设监理有限公司</td>
+												    <td align="center">高小文</td>
+												    <td align="center">44001316</td>
+												    <td align="center">苏江涛/18520478091</td>
+												    <td align="center">/</td>
+												    <td align="center">///</td>
+												    <td align="center"></td>
+												    <td align="center">/</td>
+												    <td align="center">/</td>
+												    <td align="center">/m²/3324.86万元</td>
+												    <td align="center"></td>
+												    <td>完成65%</td>
+												    <td>寮步镇</td>
+												    <td align="center">2017-11-21</td>
+												    <td></td>
+												    <td></td>
+												    
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>

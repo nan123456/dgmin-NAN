@@ -1,0 +1,60 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">省优质结构奖</h1>
+												<tr>
+													<th>序号</th>
+													<th>工程名称</th>
+													<th>承建单位</th>
+													<th>施工单位联系人</th>
+													<th>施工单位联系人手机</th>
+													<th>参建单位</th>
+													<th >建造师（项目经理）姓名</th>
+													<th>监理单位</th>
+													<th>总监</th>
+													<th>工程规模</th>
+													<th>结构类型</th>
+													<th>开工时间</th>
+													<th>计划竣工时间</th>
+													<th>检查情况1</th>
+													<th>检查情况2</th>
+													<th>检查情况3</th>
+													<th>不通过原因</th>
+													<th>项目地址</th>
+													<th>申报时间</th>
+													<th>申报时的主体结构进度</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													<td align="center">1</td>
+													<td></a></td>
+													<td class="center"> 1</td>
+													<td align="center"></td>
+													<td align="center"></td>
+													<td class="center"></td>
+												    <td align="center"></td>
+												    <td></td>
+												    <td align="center"></td>
+												    <td align="center"></td>
+												    <td align="center">框架</td>
+												    <td align="center"></td>
+												    <td align="center"></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td align="center"></td>	
+												    <td>1</td>
+												    
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>

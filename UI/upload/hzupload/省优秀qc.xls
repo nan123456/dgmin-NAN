@@ -1,0 +1,50 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">省优秀QC</h1>
+												<tr>
+													
+													<th>工程名称</th>
+													<th>承建单位</th>
+													<th>施工单位联系人</th>
+													<th>施工单位联系人手机</th>
+													<th>小组名称</th>
+													<th>课题名称</th>
+													<th>课题类型</th>
+													<th>课题起止期</th>
+													<th>发表人</th>
+													<th>通讯地址</th>
+													<th>E-mail</th>
+													<th>项目地址(镇街村)</th>
+													<th>申报日期</th>
+													<th>备注</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													
+													<td><a href="#">的 的  </a></td>
+													<td class="center"> 电子科技</td>
+													<td class="center"> 飞</td>
+													<td class="center">的额</td>
+													<td class="center">额</td>
+												    <td>奥德赛f</td>
+												    <td>啊的</td>
+												    <td>2017-09-11/2017-09-25</td>
+												    <td> df</td>
+												    <td> 阿萨德</td>
+												    <td>啊的</td>
+												    <td>人</td>
+												    <td>2017-09-11</td>	
+												    <td>的爱疯 </td>
+												    
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>

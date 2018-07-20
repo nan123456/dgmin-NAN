@@ -1,0 +1,34 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">市优质奖</h1>
+												<tr>
+													
+													<th>工程名称</th>
+													<th >承建单位</th>
+													<th>联系人/手机</th>
+													<th >建造师（项目经理）姓名</th>
+													<th >参建单位(全称)</th>
+													<th>联系人/手机</th>
+													<th>监理单位(全称)</th>
+													<th >总监姓名</th>
+													<th >联系人/手机</th>
+													<th>面积(m2)规模(万元)</th>
+													<th>结构</th>
+													<th>地上</th>
+													<th>地下</th>
+													<th >竣工验收/备案时间</th>
+													<th>项目所在镇街位置</th>
+													<th>申报时间</th>
+													<th>备注</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿		
+											</tbody>
+										</table>
+
+</table></body></html>

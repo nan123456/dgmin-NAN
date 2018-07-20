@@ -1,0 +1,108 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">省优质结构奖</h1>
+												<tr>
+													
+													<th>工程名称</th>
+													<th>承建单位</th>
+													<th>施工单位联系人</th>
+													<th>施工单位联系人手机</th>
+													<th>参建单位</th>
+													<th >建造师（项目经理）姓名</th>
+													<th>监理单位</th>
+													<th>总监</th>
+													<th>工程规模</th>
+													<th>结构类型</th>
+													<th>开工时间</th>
+													<th>计划竣工时间</th>
+													<th>检查情况1</th>
+													<th>检查情况2</th>
+													<th>检查情况3</th>
+													<th>不通过原因</th>
+													<th>项目地址</th>
+													<th>申报时间</th>
+													<th>备注</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													<!--<td class="hidden" name="hybjm"></td>-->
+													<td><a href="#">广东晖速通信技术股份有限公司移动通信天馈系统技术研发建设项目</a></td>
+													<td class="center"> 广东一真建设有限公司</td>
+													<td class="center">孙丽群</td>
+													<td class="center">15989927064</td>
+													<td class="center"></td>
+												    <td>霍迪六</td>
+												    <td>广东天衡工程建设咨询监理有限公司</td>
+												    <td>霍迪六</td>
+												    <td>31937.49平方</td>
+												    <td>框架</td>
+												    <td>2016-12-01</td>
+												    <td>2018-12-01</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市东城街道东城科技工业园（东科路西侧）</td>
+												    <td>2017-09-01</td>	
+												    <td></td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<!--<td class="hidden" name="hybjm"></td>-->
+													<td><a href="#">绿圆峰花园1~3号住宅楼，4、5号商业、办公楼及地下室</a></td>
+													<td class="center"> 浙江新东方建设集团有限公司</td>
+													<td class="center">邓勇</td>
+													<td class="center">15899699530</td>
+													<td class="center"></td>
+												    <td>王刚</td>
+												    <td>深圳市中行建设监理有限公司</td>
+												    <td>王刚</td>
+												    <td>117750.82</td>
+												    <td>剪力墙结构</td>
+												    <td>2016-08-05</td>
+												    <td>2018-06-30</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市塘厦镇桥陇社区居民委员会</td>
+												    <td>2017-09-14</td>	
+												    <td></td>
+												    
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<!--<td class="hidden" name="hybjm"></td>-->
+													<td><a href="#">凯旋湾花园B区26、27号住宅楼,29、30号住宅楼，33-35号住宅楼</a></td>
+													<td class="center"> 中国对外建设有限公司</td>
+													<td class="center">喻福至</td>
+													<td class="center">13137609577</td>
+													<td class="center"></td>
+												    <td>赵军鹏</td>
+												    <td>东莞市广安建设工程监理有限公司</td>
+												    <td>赵军鹏</td>
+												    <td>108304.21</td>
+												    <td>剪力墙结构</td>
+												    <td>2017-03-09</td>
+												    <td>2018-05-19</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市石排镇横山村</td>
+												    <td>2017-09-18</td>	
+												    <td></td>
+												    
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>

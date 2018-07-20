@@ -1,0 +1,53 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">省绿色施工</h1>
+												<tr>
+													
+													<th>工程名称</th>
+													<th >承建单位</th>
+													<th >施工单位联系人/手机</th>
+													<th >建造师（项目经理）姓名</th>
+													<th>监理单位</th>
+													<th >总监</th>
+													<th >工程规模</th>
+													<th >结构类型</th>
+													<th >地上/地下</th>
+													<th>开工时间/计划竣工时间</th>
+													<th>检查情况1</th>
+													<th>检查情况2</th>
+													<th>检查情况3</th>
+													<th>不通过原因</th>
+													<th>项目地址</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													
+													<td><a href="#">粤语同意问题</a></td>
+													<td class="center"> 电子科技</td>
+													<td class="center">一収/765656</td>
+													<td class="center">好的回家</td>
+													<td class="center">玉</td>
+												    <td>好的一</td>
+												    <td>的就</td>
+												    <td>钢混凝土结构</td>
+												    <td>6/8</td>
+												    <td>2017-09-11/2017-09-26</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>欲欲额</td>
+												    <!--<td>2017-09-11</td>
+												    <td>一一</td>												    -->
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>

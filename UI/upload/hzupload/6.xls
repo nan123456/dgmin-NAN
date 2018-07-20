@@ -1,0 +1,137 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+xmlns:w="urn:schemas-microsoft-com:office:excel" 
+xmlns="http://www.w3.org/TR/REC-html40"><body><table width=1004" border="1" border-style="solid" cellspacing="0" cellpadding="0" style="margin:0 auto;"> 
+<table  border="1" cellspacing="1">
+											<thead>
+												<h1 style="text-align:center;">省绿色施工</h1>
+												<tr>
+													<th>序号</th>
+													<th>工程名称</th>
+													<th >承建单位</th>
+													<th >施工单位联系人/手机</th>
+													<th >建造师（项目经理）姓名</th>
+													<th>监理单位</th>
+													<th >总监</th>
+													<th >工程规模</th>
+													<th >结构类型</th>
+													<th >地上/地下</th>
+													<th>开工时间/计划竣工时间</th>
+													<th>检查情况1</th>
+													<th>检查情况2</th>
+													<th>检查情况3</th>
+													<th>不通过原因</th>
+													<th>项目地址</th>
+													
+												</tr>
+											</thead>
+											<tbody>
+								 ﻿												<tr class="odd gradeX">
+													
+													<td align="center">1</td>
+													<td>岭山林语花园27号地下室、1-23号住宅楼、24-25号商业楼、26号垃圾站</a></td>
+													<td class="center"> 广州富利建筑安装工程有限公司</td>
+													<td align="center">王光宇/13644412111</td>
+													<td align="center">匡伟</td>
+													<td class="center">广东力达建设工程项目管理有限公司</td>
+												    <td align="center">曾淑红</td>
+												    <td align="center">77997.42</td>
+												    <td align="center">框剪</td>
+												    <td align="center">25层/2层</td>
+												    <td align="center">2017-04-18/2019-03-06</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市大岭山镇水朗村</td>
+												    <!--<td>2017-09-19</td>
+												    <td></td>												    -->
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">2</td>
+													<td> 寮步香市孵化链项目一期（即2号地块1~5号厂房、地下室）总承包工程</a></td>
+													<td class="center"> 中铁建工集团有限公司</td>
+													<td align="center">赵金龙/13714157324</td>
+													<td align="center">高耀</td>
+													<td class="center">广东天衡建设咨询监理有限公司</td>
+												    <td align="center">胡雄彬</td>
+												    <td align="center">194102.51㎡</td>
+												    <td align="center">框架</td>
+												    <td align="center">20层/一层</td>
+												    <td align="center">2017-06-20/2018-09-12</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市寮步镇</td>
+												    <!--<td>2017-09-19</td>
+												    <td></td>												    -->
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">3</td>
+													<td>vivo总部办公楼（框架地上7层地下1层1幢）</a></td>
+													<td class="center"> 中建三局集团有限公司</td>
+													<td align="center">张鹏/17688849366</td>
+													<td align="center">冯磊</td>
+													<td class="center">深圳市合创建设工程顾问有限公司</td>
+												    <td align="center">黄龙钢</td>
+												    <td align="center">51447.04</td>
+												    <td align="center">框架</td>
+												    <td align="center">7/1</td>
+												    <td align="center">2016-03-18/2017-10-18</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市长安镇沙头沙区海堤路南</td>
+												    <!--<td>2017-09-23</td>
+												    <td></td>												    -->
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">4</td>
+													<td>君澜花园1-10幢住宅楼、11幢商业楼、12幢幼儿园、13幢地下室</a></td>
+													<td class="center"> 中建二局第三建筑工程有限公司</td>
+													<td align="center">王响/13517218366</td>
+													<td align="center">周岳常</td>
+													<td class="center">东莞市恒信建设工程咨询有限公司</td>
+												    <td align="center">周明华</td>
+												    <td align="center">8.8万</td>
+												    <td align="center">框剪</td>
+												    <td align="center">8万/0.8万</td>
+												    <td align="center">2016-11-01/2018-03-31</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>大岭山镇石榴西二街</td>
+												    <!--<td>2017-10-09</td>
+												    <td>已申报</td>												    -->
+												</tr>
+																						<tr class="odd gradeX">
+													
+													<td align="center">5</td>
+													<td>岭山林语花园27号地下室、1-4号住宅楼</a></td>
+													<td class="center"> 广州富利建筑安装工程有限公司</td>
+													<td align="center">王光宇/13644412111</td>
+													<td align="center">匡伟</td>
+													<td class="center">广东力达建设工程项目管理有限公司</td>
+												    <td align="center">曾淑红</td>
+												    <td align="center">60894.04</td>
+												    <td align="center">框剪</td>
+												    <td align="center">25层/2层</td>
+												    <td align="center">2017-04-18/2019-03-06</td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td></td>
+												    <td>东莞市大岭山镇水朗村</td>
+												    <!--<td>2017-10-20</td>
+												    <td></td>												    -->
+												</tr>
+												
+											</tbody>
+										</table>
+
+</table></body></html>
